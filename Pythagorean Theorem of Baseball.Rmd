@@ -1,0 +1,8 @@
+---
+title: "Pythagorean Theorem of Baseball"
+output: html_notebook
+author: 'Jiso Awe'
+---
+
+# The Pythagorean Theorem of Baseball
+
